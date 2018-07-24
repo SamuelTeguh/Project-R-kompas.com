@@ -77,3 +77,4 @@ def getLinkFromFile():
 getIndeks(url)
 getLinkFromFile()
 
+#Sumber : https://ha.hn.web.id/2016/07/10/belajar-python-scraping-situs/
