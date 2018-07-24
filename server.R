@@ -23,7 +23,7 @@ function(input, output) {
     news_corpus_proc <- tm_map(news_corpus_proc, removePunctuation)
     news_corpus_proc <- tm_map(news_corpus_proc, removeNumbers)
     news_corpus_proc <- tm_map(news_corpus_proc, removeWords, stopwords)
-    frequent_terms <- freq_terms(news_corpus_proc, input$num)
+    frequent_terms <- freq_terms(news_corpus_proc, input$wordNum)
     plot(frequent_terms)
     })
 }
