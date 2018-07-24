@@ -18,7 +18,7 @@
    
 ## Flowchart
 
-![Flowchart process 1](https://github.com/SamuelTeguh/Project-R-kompas.com/blob/master/Image/workflow.jpg)
+<p align="center"><img src="https://github.com/SamuelTeguh/Project-R-kompas.com/blob/master/Image/workflow.jpg"/></p>
 
 ## Web Scraping
 
