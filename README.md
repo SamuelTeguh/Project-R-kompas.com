@@ -7,7 +7,7 @@
 | 2. | <img src="https://avatars.githubusercontent.com/vrGun" width=100 height=100 /> | Veri Gunawan | <a title="vrGun" href="https://github.com/vrGun">@vrGun</a> | 00000012343 | 
 | 3. | <img src="https://avatars.githubusercontent.com/yoeladrielcandr" width=100 height=100/> | Yoel Adriel Candra | <a title="yoeladrielcandr" href="https://github.com/yoeladrielcandr">@yoeladrielcandr</a> | 00000014204 |
 
-## Installation
+## Instalasi
 
 1. Clone repositori ini
 2. Install Python3
@@ -39,4 +39,8 @@ Data yang didapatkan diproses kembali menjadi sebuah corpus text lalu membuang t
 yang ada.
 Data-data yang sudah diproses lalu dihitung frekuensi kata yang ada dan ditampilkan dalam bentuk grafik.
 
-<p align="center"><img src="https://github.com/SamuelTeguh/Project-R-kompas.com/blob/master/Image/ss4.png"/></p>
+<p align="center"><img src="https://github.com/SamuelTeguh/Project-R-kompas.com/blob/7ffc0fa16da4abd8e163674330c08306e832d8b3/Image/ss4.png"/></p>
+
+## Referensi
+https://ha.hn.web.id/2016/07/10/belajar-python-scraping-situs/
+https://github.com/stopwords-iso/stopwords-id/blob/master/raw/indonesian-stopwords-complete.txt
