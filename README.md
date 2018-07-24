@@ -42,5 +42,5 @@ Data-data yang sudah diproses lalu dihitung frekuensi kata yang ada dan ditampil
 <p align="center"><img src="https://github.com/SamuelTeguh/Project-R-kompas.com/blob/7ffc0fa16da4abd8e163674330c08306e832d8b3/Image/ss4.png"/></p>
 
 ## Referensi
-https://ha.hn.web.id/2016/07/10/belajar-python-scraping-situs/
-https://github.com/stopwords-iso/stopwords-id/blob/master/raw/indonesian-stopwords-complete.txt
+  - https://ha.hn.web.id/2016/07/10/belajar-python-scraping-situs/
+  - https://github.com/stopwords-iso/stopwords-id/blob/master/raw/indonesian-stopwords-complete.txt
