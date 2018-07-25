@@ -58,6 +58,8 @@ Hasilnya di sort dan dihitung frekuensi katanya menggunakan package qdap. Menggu
   4. Mengelompokan data yang didapatkan dan menghitung frekuensi kata
   - frequent_terms <- freq_terms(news_corpus_proc, input$wordNum)
 
+Aplikasi R Shiny akan menampilkan grafik frekuensi kata yang menampilkan frekuensi kata terbanyak sesuai dengan inputan pada numericInput().
+
 <p align="center"><img src="https://github.com/SamuelTeguh/Project-R-kompas.com/blob/7ffc0fa16da4abd8e163674330c08306e832d8b3/Image/ss4.png"/></p>
 
 ## Referensi
